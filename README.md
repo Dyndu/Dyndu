@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dyndu
-- 👀 I’m interested in coing...
+- 👋 Hi, I’m Wadjid Assani, a programmer 
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning programming languages such as : php, Java, Python, C, C++, HTML5, CSS & Javascript
 - 💞️ I’m looking to collaborate on any work according to programming.
 - 📫 How to reach me on email: wadjidassani@gmail.com
