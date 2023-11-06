@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Wadjid Assani, a programmer 
+- 👋 Hi, I’m Wadjid Assani, a back-end programmer 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programming languages such as : php, Java, Python, C, C++, HTML5, CSS & Javascript
+- 🌱 I’m currently specializing myself in javascript
 - 💞️ I’m looking to collaborate on any work according to programming.
 - 📫 How to reach me on email: wadjidassani@gmail.com
 
